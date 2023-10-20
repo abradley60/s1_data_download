@@ -3,6 +3,6 @@ Simple notebook to download sentinel-1 data from ASF and associated orbit files
 
 # Instructions
 1. setup an account at https://urs.earthdata.nasa.gov/users/new
-2. add credentials to s1_data_download/credentials/credentials_earthdata.txt based on example file
+2. add credentials to credentials/credentials_earthdata.txt based on example file in folder
 3. install requirements
 4. use download_data.ipynb to download data for region and times of interest
