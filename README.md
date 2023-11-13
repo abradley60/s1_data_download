@@ -1,5 +1,5 @@
 # s1_data_download
-Simple notebook to download sentinel-1 data from ASF and associated orbit files
+Simple notebook to download sentinel-1 data from ASF, associated orbit files and DEMs for each scene
 
 # Instructions
 1. setup an account at https://urs.earthdata.nasa.gov/users/new
