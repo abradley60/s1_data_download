@@ -1,3 +1,5 @@
 asf-search
 sentineleof
 dem-stitcher
+matplotlib
+cartopy
